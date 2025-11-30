@@ -41,7 +41,7 @@ Technology Stack:
         password:- tutor123
 
 ## Github Repo 
-https://github.com/Jahnavi-Git-Hub/TutorHive
+https://github.com/sakshikk202/Tutorhive
 
 ## Key Features
 
@@ -1048,3 +1048,4 @@ This document represents the comprehensive full-stack development contributions 
 ## License
 
 This project is part of an academic assignment and is not intended for commercial use.
+
